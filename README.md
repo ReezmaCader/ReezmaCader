@@ -7,3 +7,7 @@
 </h1>
 <h3 align="center"> An undergraduate at University of Moratuwa. </h3>
 <br/>
+<div align="center">
+<a href="mailto:reezmacader2001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logocolor=red" target="_blank"/>
+</a>

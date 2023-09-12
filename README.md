@@ -15,4 +15,9 @@
 <a href="https://www.linkedin.com/in/reezma-cader-14a321253/" target_blank">
    <img src="https://img.shields.io/badge/LinkdIn-0077B5?style=for-the-badge&logo=linkedin&logocolor=white"target="_blank"/>
 </a>
+  <a href="https://www.instagram.com/" target_blank">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"/>
+</a>
 </div>
+
+

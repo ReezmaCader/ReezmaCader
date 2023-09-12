@@ -27,7 +27,7 @@
   <h2 align="center"> Languages-Tools</h2> <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,javascript,c,java,visual studio code"/><br>
+    <img src="https://skillicons.dev/icons?i=github,javascript,c,java,vscode"/><br>
     <img src="https://skillicons.dev/icons?i=mysql,html,css,php,git,arduino"/>
   </a>
 </div>

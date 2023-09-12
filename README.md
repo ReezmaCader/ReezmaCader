@@ -1,5 +1,3 @@
-
-
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif; color: #000000;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Reezma+Cader!" alt="Typing Animation">
 </h1>

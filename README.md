@@ -1,9 +1,4 @@
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=ReezmaCader&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.herokuapp.com/?username=ReezmaCader&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReezmaCader&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
-</div>
+
 
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif; color: #000000;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Reezma+Cader!" alt="Typing Animation">

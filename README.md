@@ -22,5 +22,12 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"/>
 </a>
 </div>
-
-
+<div>
+  <hr/>
+  <h2 align="center"> Languages-Tools</h2> <br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,javascript,c,java,oop"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,php,git,microsoftword,microsoftexcel"/>
+  </a>
+</div>

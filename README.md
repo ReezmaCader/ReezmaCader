@@ -27,7 +27,7 @@
   <h2 align="center"> Languages-Tools</h2> <br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,javascript,c,java,oop"/><br>
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,php,git,microsoftword,microsoftexcel"/>
+    <img src="https://skillicons.dev/icons?i=github,javascript,c,java,object oriented programming"/><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,php,git,microsoft word,microsoft excel"/>
   </a>
 </div>

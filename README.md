@@ -2,10 +2,11 @@
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Reezma+Cader!&color=000000">
 </h1>
-
+  <hr/>
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Profile!&color=000000;">
 </h1>
+  <hr/>
 <h3 align="center" style="font-family: 'Times New Roman', Times, serif;"> An undergraduate at University of Moratuwa. </h3>
 <br/>
 <div align="center">

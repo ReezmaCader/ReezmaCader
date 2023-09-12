@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ReezmaCader.ReezmaCader"/>
+
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Reezma+Cader!&color=000000">
 </h1>
@@ -25,7 +25,7 @@
 </div>
 <div>
   <hr/>
-  <h2 align="center"> Languages-Tools</h2> <br>
+  <h2 align="center">⚒️ Languages-Tools⚒️</h2> <br>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,javascript,c,java,vscode"/><br>

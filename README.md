@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Reezma+Cader!;&color=000000;">
   </h1>
   
-  <hr/>
+
   <h3 style="font-family: 'Times New Roman', Times, serif; color: #000000;">An enthusiastic undergraduate student at the University of Moratuwa, pursuing a BSc (Hons) in Information Technology and Management degree</h3>
   <br/>
   <div>
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
     </a>
   </div>
-  <hr/>
+
   <h2 align="center" style="font-family: 'Times New Roman', Times, serif; color: #000000;">⚒️ Languages-Tools ⚒️</h2>
   <div align="center">
     <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,html,css,php,git,arduino"/>
     </a>
   </div>
-  <hr/>
+
   <h2 align="center" style="font-family: 'Times New Roman', Times, serif; color: #000000;">⚡ Stats ⚡</h2>
   <div align="center">
     <img width="390" src="https://streak-stats.demolab.com/?user=ReezmaCader&count_private=true&theme=react&border_radius=10" alt="streak stats"/>

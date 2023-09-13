@@ -5,7 +5,7 @@
   </h1>
   
 
-  <h3 style="font-family: 'Times New Roman', Times, serif; color: #000000;">An enthusiastic undergraduate student at the University of Moratuwa, pursuing a BSc (Hons) in Information Technology and Management degree</h3>
+  <h3 style="font-family: 'Times New Roman', Times, serif; color: #000000;">An aspiring tech enthusiast on a journey of exploration and innovation. Currently pursuing my BSc (Hons) in Information Technology and Management degree at the University of Moratuwa, I thrive in the world of coding and problem-solving.I'm deeply passionate about harnessing the power of technology to create meaningful solutions.</h3>
   <br/>
   <div>
     <a href="mailto:reezmacader2001@gmail.com">
